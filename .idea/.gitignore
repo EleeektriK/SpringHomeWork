@@ -1,8 +1,14 @@
 # Default ignored files
-*.iml
-.idea/*
 /shelf/
 /workspace.xml
+# Intellij
+.idea/
+*.iml
+*.iws
+# Maven
+log/
+target/
+
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
